@@ -47,3 +47,31 @@ I hope my receptivity to change and ability to learn tirelessly help me along my
 * Adobe Photoshop, Adobe Illustrator
 
   
+***
+
+
+### Code example: 
+
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
+
+***
+
+
+### Languages:
+
+
+* Deutsch: A2
+
+* English: B1
+
+<img alt="Test`s result" width="390" src="https://github.com/Tatiananewprog/rsschool-cv/assets/137803816/f661de73-c4c2-4365-b64b-4513510ca0ff">
+
+
+* Russian: native
+
