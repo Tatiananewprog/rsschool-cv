@@ -36,3 +36,14 @@ Remote work as a self-employed 3D printer gave me a chance to learn Frontend Dev
 
 I hope my receptivity to change and ability to learn tirelessly help me along my professional path.
 
+
+***
+
+
+### Skills and proficiency:
+
+* Inkscape, OpenSCAD
+
+* Adobe Photoshop, Adobe Illustrator
+
+  
