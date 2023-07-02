@@ -66,6 +66,9 @@ function multiply(a, b){
 ### Languages:
 
 
+* Russian: native
+
+
 * Deutsch: A2
 
 * English: B1
@@ -73,5 +76,5 @@ function multiply(a, b){
 <img alt="Test`s result" width="390" src="https://github.com/Tatiananewprog/rsschool-cv/assets/137803816/f661de73-c4c2-4365-b64b-4513510ca0ff">
 
 
-* Russian: native
+
 
