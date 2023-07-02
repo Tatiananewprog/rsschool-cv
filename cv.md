@@ -20,7 +20,7 @@
 ***
 
 
-**Briefly about myself:**
+### Briefly about myself:
 
 I began my career path as a lecturer in the Advertising department at the Siberian University of Consumer Cooperation. My professional occupation has been connected to creating advertisements. So from 2007 to 2014, I have been working in education. After that, I decided to change my line of work to a more practical one. 
 
