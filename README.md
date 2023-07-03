@@ -1,1 +1,1 @@
-[# rsschool-cv](https://Tatiananewprog.github.io/rsschool-cv/cv)
+[# rsschool-cv](https://Tatiananewprog.github.io/rsschool-cv/)
