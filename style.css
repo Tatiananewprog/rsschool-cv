@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+  }
+
 html {
     cursor: default;
     line-height: 1.5;
@@ -7,8 +11,137 @@ html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     word-break: break-word;
+    scroll-behavior: smooth;
 }
  
 body {
     margin: 0;
+    font-family: 'Roboto Slab', serif;
+    min-height: 100vh;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header {
+    background-color: #323B4C;
+    margin-bottom: 16px;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav-item {
+    padding: 0 20px;
+    line-height: 50px;
+}
+
+.nav-item > a:hover {
+    text-decoration: underline;
+}
+.nav-item > a {
+    color: white; 
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+#profile {
+    display: flex;
+    align-items: center;
+}
+.profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.section {
+    padding: 0px 40px;
+
+}
+
+.profile-info {
+    margin-left: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    width: 100%;
+}
+
+h1 {
+    font-size: 30px;
+    color: #323B4C;
+}
+
+.profession {
+    font-size: 20px;
+    color: #323B4C;
+    margin: 0;
+}
+
+.link-course {
+    display: inline-block;
+    width: 121px;
+    height: 45px;
+    background-image: url("./assets/rs_school.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.footer {
+    background-color: #323B4C;  
+}
+
+.link-github {
+    color: white;
+    text-decoration: none;
+}
+
+.year {
+    display: inline;
+    color: white;
+}
+
+.footer-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section-list {
+    list-style: none;
+    padding: 0; 
+}
+
+.section-list p {
+    margin: 0;
+}
+
+.section-list-item {
+    margin-bottom: 8px;
+}
+
+#aboutmyself p {
+    text-align: justify;
+}
+
+.english-image {
+    height: 150px;
+    margin-top: 16px;
+}
+
+#profile {
+    width: 100%;
+}
+
+.section-title {
+    color:#323B4C;
 }
